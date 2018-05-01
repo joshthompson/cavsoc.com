@@ -23,6 +23,11 @@
 		}
 	};
 
+	// Scroll to section
+	window.scrollToSection = function(section) {
+		$("[data-page].active").animate({scrollTop: $("#" + section).offset().top});
+	};
+
 	// Preload images
 	(function preloadImages(img) {
 		if (typeof backgrounds[img] == "object") {
