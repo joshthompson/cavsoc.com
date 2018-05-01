@@ -49,20 +49,20 @@
 		<div id="nav-right" class="link"><img src="./images/ui/right.png" alt="View Next" /></div>
 	</div>
 
-	<div data-page="work">
+	<div data-page="work" class="content-page">
 		<div class="page-content">
 			<h2 class="cavsoc-heading"><em class="our">Our</em>Work</h2>
 		</div>
 	</div>
 
-	<div data-page="story">
+	<div data-page="story" class="content-page">
 		<div class="page-content">
 			<h2 class="cavsoc-heading"><em class="our">Our</em>Story</h2>
 			<iframe width="100%" height="450" src="https://www.youtube.com/embed/9f5zD7ZSNpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		</div>
 	</div>
 
-	<div data-page="team" class="!active">
+	<div data-page="team" class="content-page">
 		<div class="page-content">
 			<h2 class="cavsoc-heading"><em class="our">Our</em>Team</h2>
 
@@ -151,8 +151,28 @@
 			<a onclick="gotoPage('work')">//<em>Our</em>Work</a>
 			<a onclick="gotoPage('story')">//<em>Our</em>Story</a>
 			<a onclick="gotoPage('team')">//<em>Our</em>Team</a>
+			<div class="burger-menu-icon" onclick="burgerMenu()">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
 		</nav>
 	</footer>
+
+	<div id="burger-menu">
+		<div class="menu">
+			<a onclick="gotoPage('')"><h3><em>CAV</em>SOC</h3></a>
+			<div><a class="nav-link" onclick="gotoPage('work')">//<em>Our</em>Work</a></div>
+			<div><a class="nav-link" onclick="gotoPage('story')">//<em>Our</em>Story</a></div>
+			<div><a class="nav-link" onclick="gotoPage('team')">//<em>Our</em>Team</a></div>
+			<div class="menu-social-links">
+				<a class="social-link" href="https://vimeo.com/cavsoc" target="_blank"><span class="socicon-vimeo"></span></a>
+				<a class="social-link" href="https://www.instagram.com/cavsoc" target="_blank"><span class="socicon-instagram"></span></a>
+				<a class="social-link" href="https://www.twitter.com/cavalrysociety" target="_blank"><span class="socicon-twitter"></span></a>
+				<a class="social-link" href="https://www.linkedin.com/company/cavsoc" target="_blank"><span class="socicon-linkedin"></span></a>
+			</div>
+		</div>
+	</div>
 
 	<!-- JAVASCRIPT -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

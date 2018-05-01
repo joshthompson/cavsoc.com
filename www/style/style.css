@@ -50,8 +50,6 @@ header {
 	line-height: 72px;
 	margin: 0px;
 	padding: 0px;
-	transition: font-size 0.2s linear;
-	-webkit-transition: font-size 0.2s linear;
 	cursor: pointer;
 }
 
@@ -128,12 +126,6 @@ footer {
 	display: flex;
 	align-items: center;
 
-	/* CSS Gradient */
-	background: -moz-linear-gradient(top, rgba(0,0,0,0) 25%, rgba(0,0,0,0.75) 100%);
-	background: -webkit-linear-gradient(top, rgba(0,0,0,0) 25%,rgba(0,0,0,0.75) 100%);
-	background: linear-gradient(to bottom, rgba(0,0,0,0) 25%,rgba(0,0,0,0.75) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 );
-
 	background-color: black;
 	z-index: 3;
 	align-items: 
@@ -141,6 +133,12 @@ footer {
 
 footer #copyright {
 	width: 130px;
+	white-space: nowrap;
+}
+
+footer .burger-menu-icon {
+	display: none;
+	margin-right: 20px;
 }
 
 nav {
@@ -155,13 +153,13 @@ nav a {
 	display: inline-block;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	letter-spacing: 0.5rem;
 	text-decoration: none;
 	padding: 20px 30px;
 	transition: all 0.2s linear;
 	background: rgba(0, 0, 0, 0.25);
 	cursor: pointer;
 }
+
 nav a:hover {
 	background: rgba(0, 0, 0, 0.5);
 	transform: translateY(-5px);
@@ -172,21 +170,15 @@ em {
 	font-weight: 700;
 }
 
-@media screen and (max-width: 420px) {
-	#logo {
-		font-size: 60px;
-	}
-}
-
-.burger-menu {
+.burger-menu-icon {
 	display: inline-block;
 	width: 45px;
-	height: 35px;
+	height: 28px;
 }
 
-.burger-menu > div {
+.burger-menu-icon > div {
 	background: #FFFFFF;
-	height: 6px;
+	height: 4px;
 	margin-bottom: 8px;
 	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
@@ -199,7 +191,7 @@ em {
 	flex-direction: column;
 	z-index: 3;
 }
-.social-links a {
+.social-link {
 	display: block;
 	line-height: 60px;
 	width: 60px;
@@ -210,7 +202,7 @@ em {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.social-links a:hover {
+.social-link:hover {
 	background: rgba(0, 0, 0, 0.25);
 }
 
@@ -247,7 +239,8 @@ em {
 }
 
 .page-content {
-	padding: 100px 100px 100px 400px;
+	padding: 0px 20px;
+	overflow-x: hidden;
 }
 
 .team-member {
@@ -301,7 +294,133 @@ em {
 	animation: 0.5s page-transition linear;
 }
 
+#burger-menu {
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	top: 0px;
+	left: 0px;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 4;
+	opacity: 0;
+	pointer-events: none;
+	cursor: pointer;
+	transition: opacity 0.25s linear;
+}
+
+#burger-menu.open {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+#burger-menu h3 {
+	font-weight: 300;
+	font-size: 32px;
+	margin: 0px 0px 20px;
+}
+
+#burger-menu .menu {
+	position: fixed;
+	width: 280px;
+	height: 100vh;
+	top: 0px;
+	left: 0px;
+	background-color: #111111;
+	z-index: 5;
+	padding: 20px;
+	text-align: center;
+	transform: translateX(-320px);
+	transition: all 0.25s linear;
+	cursor: auto;
+}
+
+#burger-menu.open .menu {
+	transform: translateX(0px);
+}
+
+#burger-menu a.nav-link {
+	letter-spacing: 0.5rem;
+	padding: 20px 30px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+#burger-menu .menu-social-links {
+	position: absolute;
+	bottom: 0px;
+	width: 260px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+#burger-menu .social-link {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	font-size: 24px;
+}
+
 @keyframes page-transition {
 	0% { opacity: 1; }
 	100% { opacity: 0; }
+}
+
+@media screen and (max-width: 1100px) {
+	.page-content {
+		padding: 0px 100px 0px 50px;
+	}
+	[data-page].content-page {
+		margin-top: 130px;
+	}
+	.cavsoc-heading {
+		margin: 10px 0px;
+	}
+	.team-members {
+		margin-bottom: 25px;
+	}
+	.team-member {
+		flex-direction: column;
+		margin-bottom: 20px;
+	}
+	.team-member .picture img {
+		width: 65px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	nav em {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 650px) {
+	.page-content {
+		padding: 0px 20px;
+	}
+	#logo {
+		font-size: 60px;
+	}
+	header {
+		text-align: center;
+		top: 0px;
+		left: 0px;
+		width: 100vw;
+		padding: 10px 10px 30px;
+		background: rgba(0, 0, 0, 0.25);
+		/* CSS Gradient */
+		background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+		background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+		background: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=0);
+	}
+	.social-links, nav a {
+		display: none;
+	}
+	footer nav {
+		width: 50vw;
+	}
+	nav .burger-menu-icon {
+		display: inline-block;
+	}
 }

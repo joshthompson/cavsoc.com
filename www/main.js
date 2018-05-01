@@ -42,6 +42,15 @@
 		$("[data-page].active").animate({scrollTop: $("#" + section).offset().top});
 	};
 
+	// Burger menu
+	window.burgerMenu = function() {
+		$("#burger-menu").addClass("open");
+	};
+
+	$("#burger-menu").click(function() {
+		$("#burger-menu").removeClass("open");
+	});
+
 	// Preload images
 	(function preloadImages(img) {
 		if (typeof backgrounds[img] == "object") {
