@@ -24,6 +24,10 @@ html, body {
 	font-size: 14px;
 }
 
+a {
+	cursor: pointer;
+}
+
 #background {
 	background-size: cover;
 	background-position: center;
@@ -218,7 +222,7 @@ em {
 }
 
 .team-members a {
-	display: block;
+	display: inline-block;
 	color: #FFFFFF;
 	transition: all 0.1s linear;
 	text-decoration: none;
@@ -264,10 +268,14 @@ em {
 .team-member .info .name {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
-	border-bottom: 1px solid #522324;
 	width: 50%;
-	padding-bottom: 3px;
-	margin-bottom: 3px;
+}
+
+.team-member hr {
+	width: 50%;
+	border: none;
+	border-bottom: 1px solid #522324;
+	margin: 3px 0px;
 }
 
 .team-member .info .role {
