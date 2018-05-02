@@ -46,9 +46,14 @@
 	window.burgerMenu = function() {
 		$("#burger-menu").addClass("open");
 	};
-
 	$("#burger-menu").click(function() {
 		$("#burger-menu").removeClass("open");
+	});
+
+	// Values
+	window.SiteValues = {year: new Date().getFullYear()};
+	$("[cv-value]").each(function() {
+		$(this).html(window.SiteValues[$(this).attr("cv-value")]);
 	});
 
 	// Preload images
