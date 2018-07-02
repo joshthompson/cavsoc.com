@@ -239,8 +239,9 @@ em {
 }
 
 .page-content {
-	padding: 0px 20px;
+	padding: 100px 100px 20px 400px;
 	overflow-x: hidden;
+	max-width: 1300px;
 }
 
 .team-member {
@@ -361,6 +362,26 @@ em {
 	font-size: 24px;
 }
 
+.work {
+	display: flex;
+}
+
+.work-image {
+	width: calc(100vw / 3);
+	height: calc(100vw / 3);
+	background-size: cover;
+	position: relative;
+}
+
+.work-image h3 {
+	margin: 0px;
+	font-size: 30px;
+	text-transform: uppercase;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
 @keyframes page-transition {
 	0% { opacity: 1; }
 	100% { opacity: 0; }
@@ -385,6 +406,13 @@ em {
 	}
 	.team-member .picture img {
 		width: 65px;
+	}
+}
+
+@media screen and (min-width: 2000px) {
+	.page-content {
+		padding: 100px 100px 20px 100px;
+		margin: 0px auto;
 	}
 }
 
