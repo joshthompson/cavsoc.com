@@ -1,0 +1,8 @@
+• Social icons - sort em out
+• Grid on projects page
+• Change layout of project page
+	• Video/Image for "main" section
+• Split into mulitple files
+
+• .php top/bottom
+• .htaccess

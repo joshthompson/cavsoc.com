@@ -72,6 +72,19 @@ h2 {
 	font-size: 48px;
 }
 
+a {
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #DDDDDD;
+}
+
+
+[data-page].content-page {
+	margin-top: 130px;
+}
+
 .email a {
 	margin-left: 30px;
 	font-size: 18px;
@@ -239,9 +252,11 @@ em {
 }
 
 .page-content {
-	padding: 100px 100px 20px 400px;
+	padding: 0px 100px 0px 50px;
 	overflow-x: hidden;
-	max-width: 1300px;
+	width: 100%;
+	max-width: 1500px;
+	margin: 0px auto 140px;
 }
 
 .team-member {
@@ -364,16 +379,31 @@ em {
 
 .work {
 	display: flex;
+	width: 100%;
+	max-width: 1000px;
+	margin: 0px auto;
 }
 
-.work-image {
-	width: calc(100vw / 3);
-	height: calc(100vw / 3);
-	background-size: cover;
+.work-tile {
+	width: 32%;
+	overflow: hidden;
+	margin-right: 2%;
 	position: relative;
+	cursor: pointer;
 }
 
-.work-image h3 {
+.work-tile .work-image {
+	background-size: cover;
+	width: 100%;
+	padding-top: 100%;
+	transition: transform 0.3s linear;
+}
+
+.work-tile:hover .work-image {
+	transform: scale(1.1);
+}
+
+.work-tile h3 {
 	margin: 0px;
 	font-size: 30px;
 	text-transform: uppercase;
@@ -382,18 +412,40 @@ em {
 	right: 20px;
 }
 
+.project {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0px auto;
+}
+
+.project .project-image-main {
+	max-width: 100%;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.project-section {
+	clear: both;
+}
+
+.project .project-image {
+	max-width: 49.5%;
+	float: right;
+	clear: both;
+	margin: 0px 0px 10px 10px;
+}
+
+.project-section:nth-child(2n + 1) .project-image {
+	float: left;
+	margin: 0px 10px 10px 0px;
+}
+
 @keyframes page-transition {
 	0% { opacity: 1; }
 	100% { opacity: 0; }
 }
 
 @media screen and (max-width: 1100px) {
-	.page-content {
-		padding: 0px 100px 0px 50px;
-	}
-	[data-page].content-page {
-		margin-top: 130px;
-	}
 	.cavsoc-heading {
 		margin: 10px 0px;
 	}
