@@ -51,6 +51,15 @@ header {
 	margin: 0px;
 	padding: 0px;
 	cursor: pointer;
+	text-decoration: none;
+}
+
+#logo a {
+	text-decoration: none;
+}
+
+#logo a:hover {
+	color: #FFFFFF;
 }
 
 .cavsoc-heading {
@@ -390,6 +399,11 @@ em {
 	margin-right: 2%;
 	position: relative;
 	cursor: pointer;
+	color: #FFFFFF;
+}
+
+.work-tile:hover {
+	color: #FFFFFF;
 }
 
 .work-tile .work-image {
