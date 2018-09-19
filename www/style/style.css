@@ -89,11 +89,6 @@ a:hover {
 	color: #DDDDDD;
 }
 
-
-[data-page].content-page {
-	margin-top: 130px;
-}
-
 .email a {
 	margin-left: 30px;
 	font-size: 18px;
@@ -218,14 +213,19 @@ em {
 	line-height: 60px;
 	width: 60px;
 	height: 60px;
+	margin-bottom: 5px;
 	text-align: center;
 	transition: background 0.2s linear;
 	cursor: pointer;
 	color: #FFFFFF;
 	text-decoration: none;
+	background: rgba(0, 0, 0, 0.15);
+}
+[data-page="index"] .social-link {
+	background: rgba(0, 0, 0, 0);
 }
 .social-link:hover {
-	background: rgba(0, 0, 0, 0.25);
+	background: rgba(0, 0, 0, 0.35);
 }
 
 .team-members {
@@ -246,8 +246,8 @@ em {
 	transform: translateX(4px);
 }
 
-[data-page] {
-	display: none;
+.content-page {
+	margin-top: 130px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -256,16 +256,12 @@ em {
 	overflow-y: auto;
 }
 
-[data-page].active {
-	display: block;
-}
-
 .page-content {
-	padding: 0px 100px 0px 50px;
+	padding: 0px 50px 0px 50px;
 	overflow-x: hidden;
 	width: 100%;
 	max-width: 1500px;
-	margin: 0px auto 140px;
+	margin: 0px auto 0px;
 }
 
 .team-member {
@@ -389,14 +385,21 @@ em {
 .work {
 	display: flex;
 	width: 100%;
-	max-width: 1000px;
 	margin: 0px auto;
 }
 
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 0px;
+	grid-row-gap: 0px;
+}
+
 .work-tile {
-	width: 32%;
+	width: 100%;
+	/*width: 32%;*/
 	overflow: hidden;
-	margin-right: 2%;
+	/*margin-right: 2%;*/
 	position: relative;
 	cursor: pointer;
 	color: #FFFFFF;
@@ -486,6 +489,9 @@ em {
 	nav em {
 		display: none;
 	}
+	.grid {
+		grid-template-columns: repeat(3, 1fr);
+	}
 }
 
 @media screen and (max-width: 650px) {
@@ -494,6 +500,9 @@ em {
 	}
 	#logo {
 		font-size: 60px;
+	}
+	.grid {
+		grid-template-columns: repeat(2, 1fr);
 	}
 	header {
 		text-align: center;
@@ -516,5 +525,11 @@ em {
 	}
 	nav .burger-menu-icon {
 		display: inline-block;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.grid {
+		grid-template-columns: repeat(1, 1fr);
 	}
 }

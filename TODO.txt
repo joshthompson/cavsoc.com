@@ -1,8 +1,14 @@
-• Social icons - sort em out
+Todo
 • Grid on projects page
 • Change layout of project page
 	• Video/Image for "main" section
-• Split into mulitple files
 
+In Progress
+
+Verify
+• Social icons - sort em out
+
+Done
+• Split into mulitple files
 • .php top/bottom
 • .htaccess

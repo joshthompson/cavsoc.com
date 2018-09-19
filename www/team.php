@@ -1,7 +1,7 @@
 <? $page_title = "Our Team"; ?>
 <? require "include/top.tpl"; ?>
 
-<div data-page="team" class="active content-page">
+<div class="content-page">
 	<div class="page-content">
 		<h2 class="cavsoc-heading"><em class="our">Our</em>Team</h2>
 

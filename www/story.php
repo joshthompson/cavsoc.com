@@ -1,7 +1,7 @@
 <? $page_title = "Our Story"; ?>
 <? require "include/top.tpl"; ?>
 
-<div data-page="story" class="active content-page">
+<div class="content-page">
 	<div class="page-content">
 		<h2 class="cavsoc-heading"><em class="our">Our</em>Story</h2>
 		<p>On the surface, CAVSOC are a creative agency and production company creating beautiful video and photography content for a range of clients across a range of sectors, from fashion labels and music artists to tech start-ups and multinational corporates.</p>

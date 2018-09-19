@@ -1,7 +1,7 @@
 <? $page_title = "WS. Studio"; ?>
 <? require "../include/top.tpl"; ?>
 
-<div data-page="work/wsstudio" class="active content-page">
+<div class="active content-page">
 	<div class="page-content">
 		<h2 class="cavsoc-heading"><em>WS</em>Studio</h2>
 		<div class="project">

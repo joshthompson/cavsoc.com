@@ -13,30 +13,6 @@
 	resize();
 	$(window).resize(resize);
 
-	// Change page
-	window.gotoPage = function(page, animate) {
-		if (page !== window.currentPage && $("[data-page='" + page + "']").length) {
-			window.currentPage = page;
-			window.location.hash = page;
-
-			if (animate === undefined || animate) {
-				$("[data-page].active").addClass("page-exit");
-				$("[data-page='" + page + "']").addClass("page-enter");
-				setTimeout(function() { $("[data-page]").removeClass("page-exit page-enter"); }, 1000);
-			}
-
-			$("[data-page].active").removeClass("active");
-			$("[data-page='" + page + "']").addClass("active").scrollTop(0);
-		} else {
-			window.location.hash = '';
-		}
-	};
-
-	// Check base hash
-	if (window.location.hash) {
-		window.gotoPage(window.location.hash.substr(1), false);
-	}
-
 	// Scroll to section
 	window.scrollToSection = function(section) {
 		$("[data-page].active").animate({scrollTop: $("#" + section).offset().top});

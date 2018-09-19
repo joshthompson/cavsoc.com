@@ -1,6 +1,14 @@
 <?
-	$spf = isset($_GET["spf"]) && $_GET["spf"] === "navigate";
+	$spf = isset($_GET['spf']) && $_GET['spf'] === 'navigate';
 	if ($spf) ob_start();
+	$path =  str_replace('.php', '', substr($_SERVER['SCRIPT_NAME'], 1));
+
+	// Remove .php extention 
+	if (strpos($_SERVER['REQUEST_URI'], '.php') !== false) {
+		header('Location: ' . str_replace('.php', '', $_SERVER['REQUEST_URI']));
+		exit;
+	}
+
 ?>
 
 <? if (!$spf): ?>
@@ -34,7 +42,7 @@
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
 
 </head>
-<body>
+<body id="body" data-page="<?=$path?>">
 
 	<header>
 		<h1 id="logo" class="cavsoc-heading">

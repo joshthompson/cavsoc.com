@@ -52,6 +52,11 @@
 			"title" => "CAVSOC" . ($page_title ? " • " . $page_title : ""),
 			"body" => array(
 				"main" => $content
+			),
+			"attr" => array(
+				"body" => array(
+					"data-page" => $path
+				)
 			)
 		));
 	}
