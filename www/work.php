@@ -1,4 +1,4 @@
-<? $page_title = 'Our Story'; ?>
+<? $page_title = 'Our Work'; ?>
 <? require 'include/top.tpl'; ?>
 
 <?
@@ -17,10 +17,38 @@
 			'link' => '/projects/wsstudio',
 			'image' => './images/projects/banana-hands.jpg',
 			'title' => 'Banana Hands'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/work/wsstudio/ws-3-consistency.jpg',
+			'title' => 'WS. Studio'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/projects/kai-jones-2.jpg',
+			'title' => 'Kai Jones. Studio'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/projects/banana-hands.jpg',
+			'title' => 'Banana Hands'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/work/wsstudio/ws-3-consistency.jpg',
+			'title' => 'WS. Studio'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/projects/kai-jones-2.jpg',
+			'title' => 'Kai Jones. Studio'
+		),
+		array(
+			'link' => '/projects/wsstudio',
+			'image' => './images/projects/banana-hands.jpg',
+			'title' => 'Banana Hands'
 		)
 	);
-
-	$projects = array_merge($projects, $projects, $projects, $projects, $projects);
 ?>
 
 <div class="content-page">
