@@ -219,13 +219,14 @@ em {
 	cursor: pointer;
 	color: #FFFFFF;
 	text-decoration: none;
-	background: rgba(0, 0, 0, 0.15);
+	background: rgba(0, 0, 0, 0.25);
 }
-[data-page="index"] .social-link {
+[data-page="index"] .social-link,
+#burger-menu .social-link {
 	background: rgba(0, 0, 0, 0);
 }
 .social-link:hover {
-	background: rgba(0, 0, 0, 0.35);
+	background: rgba(0, 0, 0, 0.4);
 }
 
 .team-members {
@@ -261,7 +262,11 @@ em {
 	overflow-x: hidden;
 	width: 100%;
 	max-width: 1500px;
-	margin: 0px auto 0px;
+	margin: 0px auto 130px;
+}
+
+body[data-page="work"] .page-content {
+	margin-bottom: 0px;
 }
 
 .team-member {
@@ -385,7 +390,7 @@ em {
 .work {
 	display: flex;
 	width: 100%;
-	margin: 0px auto;
+	margin: 0px auto 130px;
 }
 
 .grid {
@@ -427,6 +432,8 @@ em {
 	position: absolute;
 	bottom: 20px;
 	right: 20px;
+	text-align: right;
+	padding-left: 20px;
 }
 
 .project {
@@ -442,20 +449,29 @@ em {
 }
 
 .project-section {
-	clear: both;
+	display: flex;
+	margin-bottom: 10px;
 }
 
-.project .project-image {
-	max-width: 49.5%;
-	float: right;
-	clear: both;
-	margin: 0px 0px 10px 10px;
+.project-section:nth-child(2n+1) {
+	flex-direction: row-reverse;
 }
 
-.project-section:nth-child(2n + 1) .project-image {
-	float: left;
-	margin: 0px 10px 10px 0px;
+.project-section .project-section-content {
+	width: 50%;
+	flex-grow: 1;
+	margin: 0px 5px;
 }
+
+.project-section .project-section-content:nth-child(1) {
+	margin-left: 0px;
+}
+
+
+.project-section .project-section-content .project-image {
+	width: 100%;
+}
+
 
 @keyframes page-transition {
 	0% { opacity: 1; }
@@ -463,6 +479,7 @@ em {
 }
 
 @media screen and (max-width: 1100px) {
+
 	.cavsoc-heading {
 		margin: 10px 0px;
 	}
@@ -476,25 +493,43 @@ em {
 	.team-member .picture img {
 		width: 65px;
 	}
+
 }
 
 @media screen and (min-width: 2000px) {
+
 	.page-content {
 		padding: 100px 100px 20px 100px;
 		margin: 0px auto;
 	}
+
 }
 
 @media screen and (max-width: 800px) {
+
 	nav em {
 		display: none;
 	}
+
 	.grid {
 		grid-template-columns: repeat(3, 1fr);
 	}
+
+	.project-section,
+	.project-section:nth-child(2n+1) {
+		flex-direction: column;
+		margin: 0px;
+	}
+
+	.project-section .project-section-content {
+		width: 100%;
+		margin: 0px 0px 10px;
+	}
+
 }
 
 @media screen and (max-width: 650px) {
+
 	.page-content {
 		padding: 0px 20px;
 	}
@@ -526,10 +561,13 @@ em {
 	nav .burger-menu-icon {
 		display: inline-block;
 	}
+
 }
 
 @media screen and (max-width: 500px) {
+
 	.grid {
 		grid-template-columns: repeat(1, 1fr);
 	}
+
 }

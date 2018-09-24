@@ -28,7 +28,7 @@
 		<h2 class="cavsoc-heading"><em class="our">Our</em>Work</h2>
 	</div>
 	<div class="">
-		<div class="work grid">
+		<div class="work grid bottom-margin">
 			<? foreach ($projects as $project): ?>
 				<a class="work-tile" href="<?=$project['link']?>">
 					<div class="work-image" style="background-image: url('<?=$project['image']?>');"></div>

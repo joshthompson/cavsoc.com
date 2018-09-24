@@ -1,14 +1,14 @@
 Todo
-• Grid on projects page
-• Change layout of project page
-	• Video/Image for "main" section
 
 In Progress
 
 Verify
-• Social icons - sort em out
 
 Done
+• Grid on projects page
+• Change layout of project page
+	• Video/Image for "main" section
+• Social icons - sort em out
 • Split into mulitple files
 • .php top/bottom
 • .htaccess
