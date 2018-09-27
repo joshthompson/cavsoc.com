@@ -14,7 +14,7 @@
 			'title' => 'Kai Jones. Studio'
 		),
 		array(
-			'link' => '/projects/wsstudio',
+			'link' => '/projects/banana-hands',
 			'image' => './images/projects/banana-hands.jpg',
 			'title' => 'Banana Hands'
 		),
