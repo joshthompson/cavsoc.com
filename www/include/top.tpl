@@ -28,13 +28,12 @@
 	<meta name="description" content="CAVSOC are specialists in music videos and fashion photography." />
 
 	<!-- OPEN GRAPH DATA -->
-	<meta property="og:url" content="https://www.cavsoc.com<?=$_SERVER['REQUEST_URI']?>" />
-	<meta property="og:title" content="CAVSOC<?=$page_title ? " • $page_title" : ""?>" />
-	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://www.cavsoc.com/images/og-image.png" />
+	<meta property="og:url" content="http://www.cavsoc.com/" />
+	<meta property="og:title" content="CAVSOC" />
+	<meta property="og:image" content="http://www.cavsoc.com/images/og-image.png" />
 	<meta property="og:image:width" content="1800" />
 	<meta property="og:image:height" content="1039" />
-	<meta property="og:description" content="Music Videos • Fashion Editorials • Branded Content" />
+	<meta property="og:description" content="Branded Content • Music Videos • Fashion Editorials" />
 
 	<!-- INCLUDES -->
 	<link rel="stylesheet" type="text/css" href="/style/style.css?v=0.19" />
@@ -49,7 +48,7 @@
 		<h1 id="logo" class="cavsoc-heading">
 			<a href="/"><em>CAV</em>SOC</a>
 		</h1>
-		<div>Music Videos • Fashion Editorials • Branded Content</div>
+		<div>Branded Content • Music Videos • Fashion Editorials</div>
 	</header>
 
 	<div class="social-links">

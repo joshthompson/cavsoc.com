@@ -7,7 +7,7 @@
 
 		<div class="team-member" id="joe">
 			<div class="picture">
-				<img src="./images/team/joe.png" />
+				<img src="./images/team/joe.jpg" />
 			</div>
 			<div class="info">
 				<div class="name"><em>Joe</em> Madden</div>
@@ -19,23 +19,9 @@
 			</div>
 		</div>
 
-		<div class="team-member" id="sara">
-			<div class="picture">
-				<img src="./images/team/sara.png" />
-			</div>
-			<div class="info">
-				<div class="name"><em>Sara</em> Huxley</div>
-				<hr />
-				<div class="role">Producer • Actress</div>
-				<p>Sara is a blah blah blah</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo quis nibh accumsan luctus porta ultrices sem. Nam quis nisl ut urna fermentum faucibus. Sed ac odio quis nunc aliquet ultricies. Sed hendrerit, velit eu bibendum gravida, metus erat imperdiet leo, vitae imperdiet nunc quam at magna. Mauris mattis in mi a commodo.</p>
-				<div class="email">sara@cavsoc.com</div>
-			</div>
-		</div>
-
 		<div class="team-member" id="rory">
 			<div class="picture">
-				<img src="./images/team/rory.png" />
+				<img src="./images/team/rory.jpg" />
 			</div>
 			<div class="info">
 				<div class="name"><em>Rory</em> Yeung</div>
@@ -49,26 +35,27 @@
 
 		<div class="team-member" id="jack">
 			<div class="picture">
-				<img src="./images/team/jack.png" />
+				<img src="./images/team/jack.jpg" />
 			</div>
 			<div class="info">
 				<div class="name"><em>Jack</em> Ayers</div>
 				<hr />
-				<div class="role">Stylist • Bee Keeper</div>
-				<p>Nullam sem mi, elementum sit amet ipsum vitae, luctus semper leo. Duis non justo tristique, consectetur nisl aliquet, molestie risus. Fusce et semper neque. Proin id dolor ultricies, commodo nunc ut, euismod elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec eu ante quis erat dapibus aliquam. Mauris ut volutpat mi. Vivamus non risus eu purus ultrices mollis.</p>
+				<div class="role">Director of Photography • Producer</div>
+				<p>As a multi-award winning DOP, Jack has shot everything from commercials and live events to music videos and feature films. Jack previously trained as an actor before realising he was on the wrong side of the camera, and has never looked back since. He’s the hardest-working person on any given set, and usually the most popular too.</p>
+				<p>Jack is yet to pick up a camera he couldn’t find his way around within a couple of minutes - take that as a challenge!</p>
 				<div class="email">jack@cavsoc.com</div>
 			</div>
 		</div>
 
 		<div class="team-member" id="freya">
 			<div class="picture">
-				<img src="./images/team/freya.png" />
+				<img src="./images/team/freya.jpg" />
 			</div>
 			<div class="info">
 				<div class="name"><em>Freya</em> Espie</div>
 				<hr />
-				<div class="role">Labotonist • All Round Nice Gal</div>
-				<p>Cras malesuada leo neque, at sollicitudin tortor ullamcorper vitae. Nunc eu dolor eget risus congue pellentesque non non ante. In faucibus pretium ligula, a rutrum eros pretium id. Donec dignissim ex a auctor hendrerit. Integer in erat sagittis, faucibus lectus eget, feugiat sapien. Proin viverra erat sed erat faucibus pharetra. Sed non volutpat sem.</p>
+				<div class="role">Production Designer • Art Director</div>
+				<p>A woman of impeccable taste, Freya makes everything in front of the camera look beautiful. She got her first break working as a runner on Eastenders, and has since gone on to art direct several of our music videos and short films. She’s currently working as Production Designer on her second feature film, managing an art department and generally being fabulous.</p>
 				<div class="email">freya@cavsoc.com</div>
 			</div>
 		</div>
