@@ -3,8 +3,8 @@
 	if ($spf) ob_start();
 	$path =  str_replace('.php', '', substr($_SERVER['SCRIPT_NAME'], 1));
 
-	// Remove .php extention 
-	if (strpos($_SERVER['REQUEST_URI'], '.php') !== false) {
+	// Remove .php extention
+	if (false && strpos($_SERVER['REQUEST_URI'], '.php') !== false) {
 		header('Location: ' . str_replace('.php', '', $_SERVER['REQUEST_URI']));
 		exit;
 	}
@@ -28,9 +28,11 @@
 	<meta name="description" content="CAVSOC are specialists in music videos and fashion photography." />
 
 	<!-- OPEN GRAPH DATA -->
-	<meta property="og:url" content="http://www.cavsoc.com/" />
-	<meta property="og:title" content="CAVSOC" />
-	<meta property="og:image" content="http://www.cavsoc.com/images/og-image.png" />
+
+	<meta property="og:url" content="https://www.cavsoc.com<?=$_SERVER['REQUEST_URI']?>" />
+	<meta property="og:title" content="CAVSOC<?=$page_title ? " • $page_title" : ""?>" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="https://www.cavsoc.com/images/og-image.png" />
 	<meta property="og:image:width" content="1800" />
 	<meta property="og:image:height" content="1039" />
 	<meta property="og:description" content="Branded Content • Music Videos • Fashion Editorials" />

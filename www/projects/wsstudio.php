@@ -3,10 +3,19 @@
 
 <div class="active content-page">
 	<div class="page-content">
-		<h2 class="cavsoc-heading"><a href="https://www.wssfashion.com/" target="_blank"><em>WS</em>Studio</a></h2>
-		<p3>Look Book - Print &amp; Online Photography</p>
+
+		<h2 class="cavsoc-heading"><em>WS</em>Studio</h2>
+
+		<div class="project-intro">
+			<div><a href="https://www.wssfashion.com/" target="_blank">https://www.wssfashion.com/</a></div>
+			<div>Look Book - Print &amp; Online Photography</div>
+		</div>
+
 		<div class="project">
-			<img class="project-image-main" src="/images/work/wsstudio/ws-1-main.jpg" />
+
+			<div class="project-main">
+				<img src="/images/work/wsstudio/ws-1-main.jpg" />
+			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
@@ -29,11 +38,11 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img class="project-image" src="/images/work/wsstudio/ws-3-consistency.jpg" />
-				</div>
-				<div class="project-section-content">
 					<h4>Consistency</h4>
 					<p>W.S. Studio wanted neutral, identical poses and lighting conditions for all 30 of their outfit combinations. This was no mean feat for a barebones crew on a one-day studio shoot, and the client looked at us like we were crazy when we said we’d need two hours to set up lights. But we knew that when you’re on a tight schedule, set-up time is the one thing you can’t skimp on. Taking the time to get this essential element perfect meant we could whiz through looks in a matter of minutes later on.</p>
+				</div>
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/wsstudio/ws-3-consistency.jpg" />
 				</div>
 			</div>
 

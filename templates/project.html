@@ -1,0 +1,55 @@
+<? $page_title = "Page Title"; ?>
+<? require "../include/top.tpl"; ?>
+
+<div class="active content-page">
+	<div class="page-content">
+
+		<!-- <em> is for emphasis, in our case it is bold. Should not contains a link. -->
+		<h2 class="cavsoc-heading"><em>Bold</em>Title</h2>
+
+		<!-- Project intro section can contain information that appears below the title. It fixes the spacing. -->
+		<!-- It should contain <div></div> tags to have different lines. -->
+		<div class="project-intro">
+			<div><a href="https://www.example.com/" target="_blank">https://www.example.com/</a></div>
+		</div>
+
+		<!-- The project block contains all of the content on a project page -->
+		<div class="project">
+
+			<!--
+				The project-main block is for the first image or video it should
+				This example has a image, youtube and vimeo video but you should only pick one
+				Remove the image width/height tags from the iframes
+			-->
+			<div class="project-main">
+				<img src="/images/work/wsstudio/ws-1-main.jpg" />
+				<iframe src="https://player.vimeo.com/video/283883101" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/mXnJqYwebF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			</div>
+
+			<!--
+				A project-section block is for the content. It has sub-blocks with the class project-section-content
+				These sub-blocks contain an image or content about the image
+				If you want the image to appear on the right, but it as the later block
+
+				Within text blocks, it's easier to use just these:
+					<h4> - for titles within this <section>
+					<p> - for paragraphs of textarea
+					<a> - for inline hyperlinks
+				(Other tags might work, but I can't verify style will work correctly in all screensizes)
+			-->
+			<div class="project-section">
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/wsstudio/ws-2-simplicity.jpg" />
+				</div>
+				<div class="project-section-content">
+					<h4>Simplicity</h4>
+					<p>W.S. Studio asked us to photograph their first ever range, the 2015 Spring/Summer Womenswear Collection. Looking for a simple studio style, they favoured shots that would serve well as both a basic look book and as product images for their website and their various stockists.</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<? require "../include/bottom.tpl"; ?>
