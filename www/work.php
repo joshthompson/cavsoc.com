@@ -9,14 +9,14 @@
 			'title' => 'WS. Studio'
 		),
 		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/projects/kai-jones-2.jpg',
-			'title' => 'Kai Jones. Studio'
+			'link' => '/projects/thankyouep',
+			'image' => './images/projects/kai-jones.jpg',
+			'title' => 'Thank You EP'
 		),
 		array(
-			'link' => '/projects/banana-hands',
-			'image' => './images/projects/banana-hands.jpg',
-			'title' => 'Banana Hands'
+			'link' => '/projects/litchisback',
+			'image' => './images/projects/mr-litch.jpg',
+			'title' => 'Litch Is Back'
 		),
 		array(
 			'link' => '/projects/wsstudio',

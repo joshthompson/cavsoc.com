@@ -7,7 +7,6 @@
 		<h2 class="cavsoc-heading"><em>WS</em>Studio</h2>
 
 		<div class="project-intro">
-			<div><a href="https://www.wssfashion.com/" target="_blank">https://www.wssfashion.com/</a></div>
 			<div>Look Book - Print &amp; Online Photography</div>
 		</div>
 
@@ -57,7 +56,7 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img class="project-image" src="/images/work/wsstudio/ws-4-the-extra-mile.jpg" />
+					<img class="project-image" src="/images/work/wsstudio/ws-6-testimonial.jpg" />
 				</div>
 				<div class="project-section-content">
 					<h4>The extra mile</h4>
@@ -73,30 +72,33 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img class="project-image" src="/images/work/wsstudio/ws-5-an-ongoing-collaboration.jpg" />
-				</div>
-				<div class="project-section-content">
 					<h4>An ongoing collaboration</h4>
 					<p>Since photographing their first collection, we have gone on to form a strong working relationship with W.S. Studio, photographing their second collection’s look book and editorial (feature picture), papping influencers wearing their garments at London Fashion Week, and collaborating with them to feature their designs in our music videos for <a href="https://vimeo.com/149508305" target="_blank">Sabrina Gunston</a> and  <a href="https://vimeo.com/150074109" target="_blank">Tops &amp; Nina</a>.</p>
+				</div>
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/wsstudio/ws-5-an-ongoing-collaboration.jpg" />
 				</div>
 			</div>
 
 			<div class="project-section">
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/wsstudio/ws-4-the-extra-mile.jpg" />
+				</div>
 				<div class="project-section-content">
 					<p>"Working with Joseph and his team was a dream. They instantly understood our brand and how we wanted to position our product in the marketplace, and were able to make practical suggestions on the shoot day that helped showcase our product in the best light. It was our first ever look book shoot but their technical skills and knowledge made us feel secure, and we loved our final photos. I would highly recommend CAVSOC to anyone looking for the best way to convey their product."</p>
 					<p>Wenbo Wang, Co-founder</p>
 				</div>
-				<div class="project-section-content">
-					<img class="project-image" src="/images/work/wsstudio/ws-6-testimonial.jpg" />
-				</div>
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
+					<p>Client: <a href="https://www.wssfashion.com/" target="_blank">W.S. Studio</a></p>
 					<p>Models: <a href="https://www.instagram.com/jesscleary_/" target="_blank">Jessica Cleary</a> &amp; <a href="https://www.starnow.com/annabellestrutt1" target="_blank">Annabelle Strutt</a> for <a href="https://www.profile-models.com/" target="_blank">Profile Models</a></p>
-
 					<p>Photographer: <a href="http://josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
 					<p>Assistant: <a href="https://www.patricklarder.com/" target="_blank">Patrick Larder</a></p>
+				</div>
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/wsstudio/ws-7.jpg" />
 				</div>
 			</div>
 		</div>
