@@ -6,9 +6,7 @@
 		<h2 class="cavsoc-heading"><em class="our">Our</em>Team</h2>
 
 		<div class="team-member" id="joe">
-			<div class="picture">
-				<img src="./images/team/joe.jpg" />
-			</div>
+			<div class="picture" style="background-image: url('/images/team/joe.jpg');"></div>
 			<div class="info">
 				<div class="name"><em>Joe</em> Madden</div>
 				<hr />
@@ -20,9 +18,7 @@
 		</div>
 
 		<div class="team-member" id="rory">
-			<div class="picture">
-				<img src="./images/team/rory.jpg" />
-			</div>
+			<div class="picture" style="background-image: url('/images/team/rory.jpg');"></div>
 			<div class="info">
 				<div class="name"><em>Rory</em> Yeung</div>
 				<hr />
@@ -34,9 +30,7 @@
 		</div>
 
 		<div class="team-member" id="jack">
-			<div class="picture">
-				<img src="./images/team/jack.jpg" />
-			</div>
+			<div class="picture" style="background-image: url('/images/team/jack.jpg');"></div>
 			<div class="info">
 				<div class="name"><em>Jack</em> Ayers</div>
 				<hr />
@@ -48,9 +42,7 @@
 		</div>
 
 		<div class="team-member" id="freya">
-			<div class="picture">
-				<img src="./images/team/freya.jpg" />
-			</div>
+			<div class="picture" style="background-image: url('/images/team/freya.jpg');"></div>
 			<div class="info">
 				<div class="name"><em>Freya</em> Espie</div>
 				<hr />

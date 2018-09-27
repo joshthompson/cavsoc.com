@@ -249,10 +249,10 @@ em {
 }
 
 .page-content {
-	padding: 0px 50px 0px 100px;
+	padding: 0px 100px 0px 100px;
 	overflow-x: hidden;
 	width: 100%;
-	max-width: 1500px;
+	max-width: 1200px;
 	margin: 0px auto 130px;
 }
 
@@ -266,9 +266,13 @@ body[data-page="work"] .page-content {
 	margin-bottom: 100px;
 }
 
-.team-member .picture img {
+.team-member .picture {
 	width: 150px;
-	margin-right: 50px;
+	height: 150px;
+	background-size: cover;
+	background-position: center;
+	margin-right: 25px;
+	flex-shrink: 0;
 }
 
 .team-member .info {
@@ -487,16 +491,6 @@ a.nav-link {
 	.cavsoc-heading {
 		margin: 10px 0px;
 	}
-	.team-members {
-		margin-bottom: 25px;
-	}
-	.team-member {
-		flex-direction: column;
-		margin-bottom: 20px;
-	}
-	.team-member .picture img {
-		width: 65px;
-	}
 
 }
 
@@ -563,6 +557,21 @@ a.nav-link {
 	}
 	nav .burger-menu-icon {
 		display: inline-block;
+	}
+
+
+	.team-members {
+		margin-bottom: 25px;
+	}
+	.team-member {
+		flex-direction: column;
+		margin-bottom: 20px;
+	}
+	.team-member .picture {
+		width: 100%;
+		height: 200px;
+		margin-bottom: 30px;
+		background-size: cover;
 	}
 
 }
