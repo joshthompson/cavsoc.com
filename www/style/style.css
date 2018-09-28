@@ -73,6 +73,11 @@ h2 {
 	font-size: 48px;
 }
 
+.page-content h2 {
+	margin: 10px 0px 40px;
+}
+
+
 a {
 	color: #FFFFFF;
 }
@@ -394,17 +399,16 @@ a.nav-link {
 }
 
 .grid {
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	grid-column-gap: 0px;
-	grid-row-gap: 0px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.grid > * {
+	width: 25%;
 }
 
 .work-tile {
-	width: 100%;
-	/*width: 32%;*/
 	overflow: hidden;
-	/*margin-right: 2%;*/
 	position: relative;
 	cursor: pointer;
 	color: #FFFFFF;
@@ -509,8 +513,8 @@ a.nav-link {
 		display: none;
 	}
 
-	.grid {
-		grid-template-columns: repeat(3, 1fr);
+	.grid > * {
+		width: calc(100% / 3);
 	}
 
 	.project-section {
@@ -533,15 +537,16 @@ a.nav-link {
 	#logo {
 		font-size: 60px;
 	}
-	.grid {
-		grid-template-columns: repeat(2, 1fr);
+
+	.grid > * {
+		width: 50%;
 	}
 	header {
 		text-align: center;
 		top: 0px;
 		left: 0px;
 		width: 100vw;
-		padding: 10px 10px 30px;
+		padding: 10px 10px 10px;
 		background: rgba(0, 0, 0, 0.25);
 		/* CSS Gradient */
 		background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
@@ -559,6 +564,13 @@ a.nav-link {
 		display: inline-block;
 	}
 
+	.page-content h2 {
+		margin: 0px 0px 20px;
+	}
+
+	.content-page {
+		margin-top: 110px;
+	}
 
 	.team-members {
 		margin-bottom: 25px;
@@ -578,8 +590,8 @@ a.nav-link {
 
 @media screen and (max-width: 500px) {
 
-	.grid {
-		grid-template-columns: repeat(1, 1fr);
+	.grid > * {
+		width: 100%;
 	}
 
 }
