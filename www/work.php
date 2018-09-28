@@ -15,38 +15,13 @@
 		),
 		array(
 			'link' => '/projects/litchisback',
-			'image' => './images/projects/mr-litch.jpg',
+			'image' => './images/work/square/mr-litch.jpg',
 			'title' => 'Litch Is Back'
 		),
 		array(
 			'link' => '/projects/wsstudio',
-			'image' => './images/work/wsstudio/ws-3-consistency.jpg',
-			'title' => 'WS. Studio'
-		),
-		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/projects/kai-jones-2.jpg',
-			'title' => 'Kai Jones. Studio'
-		),
-		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/projects/banana-hands.jpg',
-			'title' => 'Banana Hands'
-		),
-		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/work/wsstudio/ws-3-consistency.jpg',
-			'title' => 'WS. Studio'
-		),
-		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/projects/kai-jones-2.jpg',
-			'title' => 'Kai Jones. Studio'
-		),
-		array(
-			'link' => '/projects/wsstudio',
-			'image' => './images/projects/banana-hands.jpg',
-			'title' => 'Banana Hands'
+			'image' => './images/work/square/trump-sucks-1.1.jpg',
+			'title' => 'Trump Sucks'
 		)
 	);
 ?>

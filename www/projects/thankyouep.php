@@ -13,7 +13,7 @@
 		<div class="project">
 
 			<div class="project-main">
-				<img src="/images/work/thankyouep/thank-you-1-main.jpg" />
+				<iframe src="https://www.youtube.com/embed/X2C-tnIdgHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 			</div>
 
 			<div class="project-section">
@@ -97,6 +97,12 @@
 				</div>
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/thankyouep/thank-you-6.1-whats-next.jpg" />
+				</div>
+			</div>
+
+			<div class="project-section">
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/thankyouep/thank-you-1-main.jpg" />
 				</div>
 			</div>
 
