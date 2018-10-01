@@ -1,4 +1,4 @@
-<? $page_title = "WS. Studio"; ?>
+<? $page_title = "Trump Sucks"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">

@@ -1,4 +1,4 @@
-<? $page_title = "WS. Studio"; ?>
+<? $page_title = "Litch Is Back"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">
@@ -121,10 +121,10 @@
 				<div class="project-section-content">
 					<p>Starring: Mr Litch, Tom Camfield, Kai Jones, Mollie Madden, Romaine Dixon, Derek Litchmore, Kaya</p>
 					<p>Director: <a href="http://www.josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
-					<p>Producer: Rory Yeung</p>
+					<p>Producer: <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
 					<p>Director of Photography: <a href="http://www.jackayers.com/" target="_blank">Jack Ayers</a></p>
 					<p>Script Supervisor: Georgina Morgan</p>
-					<p>Runners: Mollie Madden and Freya Espie</p>
+					<p>Runners: Mollie Madden and <a href="https://freyaespie.portfoliobox.net/" target="_blank">Freya Espie</a></p>
 				</div>
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/litchisback/mr-litch-7-credits.jpg" />

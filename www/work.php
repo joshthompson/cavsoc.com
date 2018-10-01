@@ -19,7 +19,7 @@
 			'title' => 'Litch Is Back'
 		),
 		array(
-			'link' => '/projects/wsstudio',
+			'link' => '/projects/trumpsucks',
 			'image' => './images/work/square/trump-sucks-1.1.jpg',
 			'title' => 'Trump Sucks'
 		)

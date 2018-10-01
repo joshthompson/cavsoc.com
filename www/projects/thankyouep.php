@@ -1,4 +1,4 @@
-<? $page_title = "WS. Studio"; ?>
+<? $page_title = "Thank You EP"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">
@@ -120,9 +120,10 @@
 				<div class="project-section-content">
 					<p>Starring: Kai Jones, Mr Litch, Jonno AQ, Floss AQ, Mula, Isee SOA, Mak, Flewid SOA, Shanice, Tai</p>
 					<p>Director: <a href="http://www.josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
-					<p>Producer: Rory Yeung</p>
+					<p>Producer: <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
 					<p>Directors of Photography: <a href="http://www.domellis.co.uk/" target="_blank">Ellis</a> & <a href="http://www.jackayers.com/" target="_blank">Ayers</a></p>
-					<p>Art Director: Freya Espie</p>
+					<p>Art Director: <a href="https://freyaespie.portfoliobox.net/" target="_blank">Freya Espie</a></p>
+					<p>Script supervisor: Georgina Morgan</p>
 					<p>2nd-Unit Camera: Xenia Zubova</p>
 					<p>1st AC: Greg Stocks</p>
 					<p>2nd AC: Dalila Kamunga</p>
