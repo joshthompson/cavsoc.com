@@ -47,7 +47,8 @@
 				<div class="name"><em>Freya</em> Espie</div>
 				<hr />
 				<div class="role">Production Designer • Art Director</div>
-				<p>A woman of impeccable taste, Freya makes everything in front of the camera look beautiful. She got her first break working as a runner on Eastenders, and has since gone on to art direct several of our music videos and short films. She’s currently working as Production Designer on her second feature film, managing an art department and generally being fabulous.</p>
+				<p>A woman of impeccable taste, Freya makes everything in front of the camera look beautiful. She got her first break working as a runner on Eastenders, and has since gone on to art direct several of our music videos and short films.</p>
+				<p>Freya is currently working as Production Designer on her second feature film, managing an art department and generally being fabulous.</p>
 				<div class="email">freya@cavsoc.com</div>
 			</div>
 		</div>
