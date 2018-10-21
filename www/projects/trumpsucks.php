@@ -50,7 +50,7 @@
 				<div class="project-section-content">
 					<p>Client: <a href="http://www.smithandsinclair.co.uk/" target="_blank">Smith & Sinclair</a></p>
 					<p>Director/Editor: <a href="http://www.josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
-					<p>Producer: April Kelley</p>
+					<p>Producer: <a href="https://twitter.com/april__kelley/" target="_blank">April Kelley</a></p>
 					<p>Produced by <a href="http://miniproductions.co.uk/" target="_blank">Mini Productions</a> in association with <em>CAV</em>SOC</p>
 				</div>
 				<div class="project-section-content">

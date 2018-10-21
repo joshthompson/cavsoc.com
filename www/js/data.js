@@ -33,7 +33,7 @@ var backgrounds = [
 		url: "https://vimeo.com/171730356"
 	},
 	{
-		src: "./images/projects/ebonie-g-2.jpg",
+		src: "./images/projects/ebonie-g-3.jpg",
 		url: "https://vimeo.com/156100656"
 	},
 	{
@@ -47,10 +47,6 @@ var backgrounds = [
 	{
 		src: "./images/projects/4real.jpg",
 		url: "https://vimeo.com/149507921"
-	},
-	{
-		src: "./images/projects/ebonie-g.jpg",
-		url: "https://www.youtube.com/watch?v=ELdbhSKiRo4"
 	},
 	{
 		src: "./images/projects/mc-threat.jpg",
