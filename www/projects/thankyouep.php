@@ -38,7 +38,7 @@
 			<div class="project-section">
 				<div class="project-section-content">
 					<h4>Trust</h4>
-					<p>A long time collaborator with CAVSOC, having worked with us on her debut music video Studio, Kai approached us with the novel idea of creating a 3-in-1 music video for her 3-track EP. Needless to say, we loved the idea, and immediately developed on this concept so that each mini-video had its own individual style that reflected the mood and tone of each song.</p>
+					<p>A long time collaborator with <em>CAV</em>SOC, having worked with us on her debut music video Studio, Kai approached us with the novel idea of creating a 3-in-1 music video for her 3-track EP. Needless to say, we loved the idea, and immediately developed on this concept so that each mini-video had its own individual style that reflected the mood and tone of each song.</p>
 				</div>
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/thankyouep/thank-you-3-trust.jpg" />

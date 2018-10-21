@@ -85,7 +85,7 @@
 					<img class="project-image" src="/images/work/wsstudio/ws-4-the-extra-mile.jpg" />
 				</div>
 				<div class="project-section-content">
-					<p>"Working with Joseph and his team was a dream. They instantly understood our brand and how we wanted to position our product in the marketplace, and were able to make practical suggestions on the shoot day that helped showcase our product in the best light. It was our first ever look book shoot but their technical skills and knowledge made us feel secure, and we loved our final photos. I would highly recommend CAVSOC to anyone looking for the best way to convey their product."</p>
+					<p>"Working with Joseph and his team was a dream. They instantly understood our brand and how we wanted to position our product in the marketplace, and were able to make practical suggestions on the shoot day that helped showcase our product in the best light. It was our first ever look book shoot but their technical skills and knowledge made us feel secure, and we loved our final photos. I would highly recommend <em>CAV</em>SOC to anyone looking for the best way to convey their product."</p>
 					<p>Wenbo Wang, Co-founder</p>
 				</div>
 			</div>

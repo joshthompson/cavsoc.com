@@ -20,10 +20,10 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img class="project-image" src="/images/story/story-2.jpg" />
+					<p>At its heart, though, <em>CAV</em>SOC is a collective of friends who love working together and are passionate about what they do. And we mean real friends, this isn’t the usual corporate spiel of feeling like a family. We grew up and learnt together. We work, play and laugh together, and understand each other, something we’ve always found has given us the edge in an industry that is based on collaborative efforts.</p>
 				</div>
 				<div class="project-section-content">
-					<p>At its heart, though, <em>CAV</em>SOC is a collective of friends who love working together and are passionate about what they do. And we mean real friends, this isn’t the usual corporate spiel of feeling like a family. We grew up and learnt together. We work, play and laugh together, and understand each other, something we’ve always found has given us the edge in an industry that is based on collaborative efforts.</p>
+					<img class="project-image" src="/images/story/story-2.jpg" />
 				</div>
 			</div>
 
