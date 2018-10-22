@@ -160,7 +160,7 @@
 					<p>Make-up Artist: Sharon Rose</p>
 					<p>Camera Assistant: Raul Menendez</p>
 					<p>Colourist: <a href="http://www.jackayers.com/" target="_blank">Jack Ayers</a></p>
-					<p>Produced by CAVSOC in collaboration with <a href="http://www.miniproductions.co.uk/" target="_blank">Mini Productions</a></p>
+					<p>Produced by <em>CAV</em>SOC in collaboration with <a href="http://www.miniproductions.co.uk/" target="_blank">Mini Productions</a></p>
 				</div>
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/socalledlove/so-called-love-22.jpg" />

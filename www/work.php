@@ -14,14 +14,14 @@
 			'title' => 'Thank You EP'
 		),
 		array(
-			'link' => '/projects/litchisback',
-			'image' => './images/work/square/mr-litch.jpg',
-			'title' => 'Litch Is Back'
-		),
-		array(
 			'link' => '/projects/trumpsucks',
 			'image' => './images/work/square/trump-sucks-1.1.jpg',
 			'title' => 'Trump Sucks'
+		),
+		array(
+			'link' => '/projects/socalledlove',
+			'image' => './images/work/square/ebonie-g.jpg',
+			'title' => 'So Called Love'
 		)
 	);
 ?>
