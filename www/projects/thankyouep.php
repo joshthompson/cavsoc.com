@@ -60,7 +60,8 @@
 				</div>
 				<div class="project-section-content">
 					<h4>Development</h4>
-					<p>We recognised from the start that each track had its own distinct tone and genre - Zone was an deep, introspective track with a modern hip-hop feel; Can I Kick It was an uplifting hip-hop track with an old-school vibe; and What’s Next was a raucous and  energetic grime anthem. Our director Joseph Madden worked to create a distinctive style for each, not only creating a individual creative treatments for each, but using a different camera, aspect ratio and colour palette to achieve this.</p>
+					<p>We recognised from the start that each track had its own distinct tone and genre - Zone was an deep, introspective track with a modern hip-hop feel; Can I Kick It was an uplifting hip-hop track with an old-school vibe; and What’s Next was a raucous and  energetic grime anthem.</p>
+					<p>Our director Joseph Madden worked to create a distinctive style for each, not only creating a individual creative treatments for each, but using a different camera, aspect ratio and colour palette to achieve this.</p>
 				</div>
 			</div>
 
@@ -123,7 +124,7 @@
 					<p>Producer: <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
 					<p>Directors of Photography: <a href="http://www.domellis.co.uk/" target="_blank">Ellis</a> & <a href="http://www.jackayers.com/" target="_blank">Ayers</a></p>
 					<p>Art Director: <a href="https://freyaespie.portfoliobox.net/" target="_blank">Freya Espie</a></p>
-					<p>Script supervisor: Georgina Morgan</p>
+					<p>Script Supervisor: <a href="https://www.georginamorganfilms.com/" target="_blank">Georgina Morgan</a></p>
 					<p>2nd-Unit Camera: Xenia Zubova</p>
 					<p>1st AC: Greg Stocks</p>
 					<p>2nd AC: Dalila Kamunga</p>

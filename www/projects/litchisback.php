@@ -38,7 +38,8 @@
 			<div class="project-section">
 				<div class="project-section-content">
 					<h4>An injection of humour</h4>
-					<p>We wanted to address the overwhelming energy of the song and it’s distinctly old-school grime vibe, and did this through a dynamic performance piece that sees Mr Litch rapping to camera while walking around his neighbourhood handing out cassette tapes of his new single. Each bystander who accepts the tape morphs into a clone of Mr Litch and continues the performance. The ‘wtf’ factor of the mutating clones serves as a loud and defiant declaration of Litch’s return - he’s not just back but he’s taking over, and with the ease of someone whose casual conquest is merely as a byproduct of going out to the shops for a snack.</p>
+					<p>We wanted to address the overwhelming energy of the song and it’s distinctly old-school grime vibe, and did this through a dynamic performance piece that sees Mr Litch rapping to camera while walking around his neighbourhood handing out cassette tapes of his new single. Each bystander who accepts the tape morphs into a clone of Mr Litch and continues the performance.</p> 
+					<p>The ‘wtf’ factor of the mutating clones serves as a loud and defiant declaration of Litch’s return - he’s not just back but he’s taking over, and with the ease of someone whose casual conquest is merely as a byproduct of going out to the shops for a snack.</p>
 				</div>
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/litchisback/mr-litch-2-an-injection-of-humour.jpg" />
@@ -60,7 +61,8 @@
 				</div>
 				<div class="project-section-content">
 					<h4>Perfect timing</h4>
-					<p>The concept was a simple one. The execution, not so much. First we had to mark out which points in the song would fit best for each glitch-morph. Next, we plotted a route around Litch’s neighbourhood, identified the exact locations we wanted for each glitch-morph, and then worked out the timings in between to determine the distance Litch would need to cover between these key points. Script supervisor Georgina Morgan was invaluable in making sure these timings lined up, and meticulous log notes throughout made the post-production a much smoother process.</p>
+					<p>The concept was a simple one. The execution, not so much. First we had to mark out which points in the song would fit best for each glitch-morph. Next, we plotted a route around Litch’s neighbourhood, identified the exact locations we wanted for each glitch-morph, and then worked out the timings in between to determine the distance Litch would need to cover between these key points.</p>
+					<p>Script supervisor Georgina Morgan was invaluable in making sure these timings lined up, and meticulous log notes throughout made the post-production a much smoother process.</p>
 				</div>
 			</div>
 
@@ -123,7 +125,7 @@
 					<p>Director: <a href="http://www.josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
 					<p>Producer: <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
 					<p>Director of Photography: <a href="http://www.jackayers.com/" target="_blank">Jack Ayers</a></p>
-					<p>Script Supervisor: Georgina Morgan</p>
+					<p>Script Supervisor: <a href="https://www.georginamorganfilms.com/" target="_blank">Georgina Morgan</a></p>
 					<p>Runners: Mollie Madden and <a href="https://freyaespie.portfoliobox.net/" target="_blank">Freya Espie</a></p>
 				</div>
 				<div class="project-section-content">
