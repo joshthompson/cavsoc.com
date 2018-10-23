@@ -82,7 +82,7 @@
 			<div class="project-section">
 				<div class="project-section-content">
 					<p>Client: <a href="https://www.childrensairambulance.org.uk/" target="_blank">Children’s Air Ambulance</a></p>
-					<p>Producer: <a href="" target="_blank">Hannah Lane</a></p>
+					<p>Producer: <a href="https://www.linkedin.com/in/hannah-lane-2a803a34/" target="_blank">Hannah Lane</a></p>
 					<p>Photographer: <a href="http://josephmadden.co.uk/" target="_blank">Joseph Madden</a></p>
 					<p>Director of Photography: <a href="http://www.jackayers.com/" target="_blank">Jack Ayers</a></p>
 					<p>Sound Recordist: <a href="https://www.soundbyrory.com/" target="_blank">Rory Cargill</a></p>
