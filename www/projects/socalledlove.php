@@ -151,11 +151,11 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<p>Starring: Ebonie G and Nathan Garwood</p>
+					<p>Starring: <a href="http://www.eboniegmusic.com/" target="_blank">Ebonie G</a> and Nathan Garwood</p>
 					<p>Directors: <a href="http://www.josephmadden.co.uk/" target="_blank">Joseph Madden</a> & <a href="http://www.patricklarder.com/" target="_blank">Patrick Larder</a></p>
-					<p>Producer: <a href="https://www.linkedin.com/in/ida-wibe-hagen-a3963582" target="_blank">Ida Wibe Hagen</a> & <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
-					<p>Choreographer: Victoria Bastable</p>
-					<p>Directors of Photography: <a href="https://tom-allen.net/" target="_blank">Tom Allen</a></p>
+					<p>Producers: <a href="https://www.linkedin.com/in/ida-wibe-hagen-a3963582" target="_blank">Ida Wibe Hagen</a> & <a href="http://www.roryyeung.com/" target="_blank">Rory Yeung</a></p>
+					<p>Choreographer: <a href="https://twitter.com/vicky_bastable/" target="_blank">Victoria Bastable</a></p>
+					<p>Director of Photography: <a href="https://tom-allen.net/" target="_blank">Tom Allen</a></p>
 					<p>Assistant Directors: <a href="https://twitter.com/april__kelley/" target="_blank">April Kelley</a> & <a href="https://twitter.com/Sara_Huxley/" target="_blank">Sara Huxley</a></p>
 					<p>Make-up Artist: Sharon Rose</p>
 					<p>Camera Assistant: Raul Menendez</p>
