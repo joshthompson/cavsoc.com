@@ -4,7 +4,7 @@
 <div class="active content-page">
 	<div class="page-content">
 
-		<h2 class="cavsoc-heading"><em>So Called</em> Love</h2>
+		<h2 class="cavsoc-heading"><em>Ebonie G </em>So Called Love</h2>
 
 		<div class="project-intro">
 			<div>Music Video</div>

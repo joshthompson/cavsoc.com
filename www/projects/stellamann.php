@@ -13,12 +13,12 @@
 		<div class="project">
 
 			<div class="project-main">
-				<img src="/images/work/stellamann/stella-mann-1.jpg" />
+				<img class="project-image" src="/images/work/stellamann/stellamann-1.jpg" />
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-9.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-9.jpg" />
 				</div>
 				<div class="project-section-content">
 					<h4>Dance dance dance</h4>
@@ -28,10 +28,10 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-17.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-17.jpg" />
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-18.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-18.jpg" />
 				</div>
 			</div>
 
@@ -41,22 +41,22 @@
 					<p>Over one weekend each summer, we transform Stella Mann’s main rehearsal space into a fully kitted-out photography studio, with Bowens lights, an 8 foot octobox diffuser, bounce boards, and a huge white infinity curve, as well as a van-load of assorted cables, triggers, light meters and other knick knacks.</p>
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-4.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-4.jpg" />
 				</div>
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-5.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-5.jpg" />
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-6.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-6.jpg" />
 				</div>
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-3.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-3.jpg" />
 				</div>
 				<div class="project-section-content">
 					<h4>Pose perfect</h4>
@@ -68,10 +68,10 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-15.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-15.jpg" />
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-16.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-16.jpg" />
 				</div>
 			</div>
 
@@ -82,22 +82,22 @@
 					<p>We currently film and edit their end of year show at the Alban Arena, their Christmas show at the college, and their showcase performances at Move It, the world’s biggest dance event at the Excel Centre.</p>
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-2.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-2.jpg" />
 				</div>
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-11.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-11.jpg" />
 				</div>
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-13.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-13.jpg" />
 				</div>
 			</div>
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img class="project-image" src="/images/work/stellamann/stella-mann-12.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-12.jpg" />
 				</div>
 				<div class="project-section-content">
 					<p>Client: <a href="https://www.stellamanncollege.co.uk/" target="_blank">Stella Mann College</a></p>
@@ -109,7 +109,7 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<img src="/images/work/stellamann/stella-mann-7.jpg" />
+					<img class="project-image" src="/images/work/stellamann/stellamann-7.jpg" />
 				</div>
 			</div>
 

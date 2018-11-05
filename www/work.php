@@ -11,17 +11,37 @@
 		array(
 			'link' => '/projects/thankyouep',
 			'image' => './images/projects/kai-jones.jpg',
-			'title' => 'Thank You EP'
+			'title' => 'Kai Jones'
 		),
 		array(
-			'link' => '/projects/trumpsucks',
-			'image' => './images/work/square/trump-sucks-1.1.jpg',
-			'title' => 'Trump Sucks'
+			'link' => '/projects/stellamann',
+			'image' => './images/work/square/stellamann2.jpg',
+			'title' => 'Stella Mann College'
 		),
 		array(
 			'link' => '/projects/socalledlove',
 			'image' => './images/work/square/ebonie-g.jpg',
-			'title' => 'So Called Love'
+			'title' => 'Ebonie G'
+		),
+		array(
+			'link' => '/projects/trumpsucks',
+			'image' => './images/work/square/trump-sucks-1.1.jpg',
+			'title' => 'Smith & Sinclair'
+		),
+		array(
+			'link' => '/projects/childrensairambulance',
+			'image' => './images/work/square/childrens-air-ambulance.jpg',
+			'title' => 'Childrens Air Ambulance'
+		),
+		array(
+			'link' => '/projects/litchisback',
+			'image' => './images/work/square/mr-litch.jpg',
+			'title' => 'Mr Litch'
+		),
+		array(
+			'link' => '/projects/studio',
+			'image' => './images/work/studio/studio-5.jpg',
+			'title' => 'Kai Jones'
 		)
 	);
 ?>

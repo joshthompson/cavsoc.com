@@ -4,7 +4,7 @@
 <div class="active content-page">
 	<div class="page-content">
 
-		<h2 class="cavsoc-heading"><em>Trump</em>Sucks</h2>
+		<h2 class="cavsoc-heading"><em>Smith &amp; Sinclair </em>Trump Sucks</h2>
 
 		<div class="project-intro">
 			<div>Viral Campaign</div>
