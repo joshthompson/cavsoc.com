@@ -4,7 +4,7 @@
 <div class="active content-page">
 	<div class="page-content">
 
-		<h2 class="cavsoc-heading"><em>Kai Jones </em>Thank You EP</h2>
+		<h2 class="cavsoc-heading"><em>Kai Jones </em>• Thank You EP</h2>
 
 		<div class="project-intro">
 			<div>Music Video</div>

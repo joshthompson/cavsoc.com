@@ -2,15 +2,15 @@
 var backgrounds = [
 	{
 		src: "./images/projects/ws-studio.jpg",
-		url: "http://www.wssfashion.com/collections"
+		url: "http://cavsoc.com/projects/wsstudio"
 	},
 	{
 		src: "./images/projects/kai-jones.jpg",
-		url: "https://youtu.be/X2C-tnIdgHI"
+		url: "http://cavsoc.com/projects/thankyouep"
 	},
 	{
 		src: "./images/projects/stella-mann-college.jpg",
-		url: "http://www.stellamanncollege.co.uk/"
+		url: "http://cavsoc.com/projects/stellamann"
 	},
 	{
 		src: "./images/projects/sabrina.jpg",
@@ -26,15 +26,15 @@ var backgrounds = [
 	},
 	{
 		src: "./images/projects/mr-litch.jpg",
-		url: "https://www.youtube.com/watch?v=EwssUXKwA30"
+		url: "http://cavsoc.com/projects/litchisback"
 	},
 	{
 		src: "./images/projects/kai-jones-2.jpg",
-		url: "https://vimeo.com/171730356"
+		url: "http://cavsoc.com/projects/studio"
 	},
 	{
 		src: "./images/projects/ebonie-g-3.jpg",
-		url: "https://vimeo.com/156100656"
+		url: "http://cavsoc.com/projects/socalledlove"
 	},
 	{
 		src: "./images/projects/banana-hands.jpg",
