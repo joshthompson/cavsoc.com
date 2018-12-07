@@ -1,4 +1,4 @@
-<? $page_title = "Thank You EP"; ?>
+<? $page_title = "Kai Jones • Thank You EP"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">
@@ -125,8 +125,8 @@
 					<p>Directors of Photography: <a href="http://www.domellis.co.uk/" target="_blank">Ellis</a> & <a href="http://www.jackayers.com/" target="_blank">Ayers</a></p>
 					<p>Art Director: <a href="https://freyaespie.portfoliobox.net/" target="_blank">Freya Espie</a></p>
 					<p>Script Supervisor: <a href="https://www.georginamorganfilms.com/" target="_blank">Georgina Morgan</a></p>
-					<p>2nd-Unit Camera: Xenia Zubova</p>
-					<p>1st AC: Greg Stocks</p>
+					<p>2nd-Unit Camera: <a href="https://vimeo.com/xeniazubova" target="_blank">Xenia Zubova</a></p>
+					<p>1st AC: <a href="https://vimeo.com/gregstocks" target="_blank">Greg Stocks</a></p>
 					<p>2nd AC: Dalila Kamunga</p>
 				</div>
 			</div>

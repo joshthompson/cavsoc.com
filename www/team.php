@@ -17,18 +17,6 @@
 			</div>
 		</div>
 
-		<div class="team-member" id="rory">
-			<div class="picture" style="background-image: url('/images/team/rory.jpg');"></div>
-			<div class="info">
-				<div class="name"><em>Rory</em> Yeung</div>
-				<hr />
-				<div class="role">Producer • Sound Recordist</div>
-				<p>Having originally started his career as a physicist, Rory brings scientific rigour and disipline to a creative industry woefully lacking in either. He has produced the majority of our music videos, taking our widly impractical concepts and surprising us all by actually making them happen. Rory also doubles up as the best sound recordist you've ever met. Oh... and he's a licensed drone pilot.</p>
-				<p>Outside of <em>CAV</em>SOC, we're also very proud that he is currently studying for a Master's degreee at the prestigious National Film &amp; Television School.</p>
-				<div class="email">rory@cavsoc.com</div>
-			</div>
-		</div>
-
 		<div class="team-member" id="jack">
 			<div class="picture" style="background-image: url('/images/team/jack.jpg');"></div>
 			<div class="info">
@@ -38,6 +26,18 @@
 				<p>As a multi-award winning DOP, Jack has shot everything from commercials and live events to music videos and feature films. Jack previously trained as an actor before realising he was on the wrong side of the camera, and has never looked back since. He’s the hardest-working person on any given set, and usually the most popular too.</p>
 				<p>Jack is yet to pick up a camera he couldn’t find his way around within a couple of minutes - take that as a challenge!</p>
 				<div class="email">jack@cavsoc.com</div>
+			</div>
+		</div>
+
+		<div class="team-member" id="rory">
+			<div class="picture" style="background-image: url('/images/team/rory.jpg');"></div>
+			<div class="info">
+				<div class="name"><em>Rory</em> Yeung</div>
+				<hr />
+				<div class="role">Producer • Sound Recordist</div>
+				<p>Having originally started his career as a physicist, Rory brings scientific rigour and disipline to a creative industry woefully lacking in either. He has produced the majority of our music videos, taking our widly impractical concepts and surprising us all by actually making them happen. Rory also doubles up as the best sound recordist you've ever met. Oh... and he's a licensed drone pilot.</p>
+				<p>Outside of <em>CAV</em>SOC, we're also very proud that he is currently studying for a Master's degreee at the prestigious National Film &amp; Television School.</p>
+				<div class="email">rory@cavsoc.com</div>
 			</div>
 		</div>
 

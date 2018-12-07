@@ -1,4 +1,4 @@
-<? $page_title = "Litch Is Back"; ?>
+<? $page_title = "Mr Litch • Litch Is Back"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">

@@ -1,4 +1,4 @@
-<? $page_title = "Studio"; ?>
+<? $page_title = "Kai • Studio"; ?>
 <? require "../include/top.tpl"; ?>
 
 <div class="active content-page">

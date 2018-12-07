@@ -22,7 +22,7 @@
 				</div>
 				<div class="project-section-content">
 					<h4>The campaign trail</h4>
-					<p>Our own Joseph Madden has been proudly photographing Small Business Saturday’s events for the past two years, from their Bus Tour, which delivers free business mentoring sessions for small businesses up and down the country; to the annual Small Awards, celebrating the best and brightest small businesses. This involvement has recently brought us into the political orbit of Whitehall...</p>
+					<p>Our own Joseph Madden has been proudly photographing Small Business Saturday’s events for the past two years, from their <a href="https://smallbusinesssaturdayuk.com/#bus-tour" target="_blank">Bus Tour</a>, which delivers free business mentoring sessions for small businesses up and down the country; to the annual <a href="https://thesmallawards.uk/" target="_blank">Small Awards</a>, run by their partner organisation <a href="https://peakb.uk/" target="_blank">peak b</a>, celebrating the best and brightest small businesses. This involvement has recently brought us into the political orbit of Whitehall...</p>
 				</div>
 			</div>
 

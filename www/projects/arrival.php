@@ -40,10 +40,8 @@
 					<img class="project-image" src="/images/work/arrival/arrival-5.jpg" />
 				</div>
 				<div class="project-section-content">
-					<h4>The black box</h4>
-					<p>While much of Arrival’s core operations take place in the UK, their main software arm is based in laboratories on the outskirts St. Petersburg. Described as the company’s ‘black box’, the St. Petersburg team routinely wow their British counterparts with technological breakthroughs despite very few colleagues knowing what it is, exactly, that they’re working on.</p>
-
-					<p>Our aim was to shine a light on the work they do, and produce a 4-part documentary series for internal consumption to give the rest of the business a deeper understanding of how the advances in software development tie in to the rest of the business’ success.</p>
+					<h4>Shining a light</h4>
+					<p>While much of Arrival’s core operations take place in the UK, their main software arm is based in laboratories on the outskirts St. Petersburg. With many of their technological breakthroughs taking place there, our aim was to shine a light on the work they do, and produce a 4-part documentary series for internal consumption to give the rest of the business a deeper understanding of how the advances in software development tie in to the rest of the business’ success.</p>
 				</div>
 			</div>
 
@@ -58,7 +56,7 @@
 
 			<div class="project-section">
 				<div class="project-section-content">
-					<h4>International business</h4>
+					<h4>International expertise</h4>
 					<p>Producing content overseas always presents its own series of unique challenges, and this was no exception. Filming by-laws, creative styles, and working cultures vary massively from country to country, and it’s easy for productions to trip up even when they think they’ve accounted for these variables.</p>
 
 					<p>We counter this by being overly prepared, to the point of being excessive, and allowing additional time for communications. However, all the best groundwork and foresight is redundant without the autonomy and flexibility to change tack when the shoot demanded it. We were fortunate enough to have a client who gave us exactly freedom and remit.</p>
@@ -96,7 +94,7 @@
 					<img class="project-image" src="/images/work/arrival/arrival-12.jpg" />
 				</div>
 			</div>
-
+<!--
 			<div class="project-section">
 				<div class="project-section-content">
 					<img class="project-image" src="/images/work/arrival/arrival-13.jpg" />
@@ -106,8 +104,11 @@
 					<p>Dan Hauck, Chief of Marketing, ARRIVAL</p>
 				</div>
 			</div>
-
+-->
 			<div class="project-section">
+				<div class="project-section-content">
+					<img class="project-image" src="/images/work/arrival/arrival-14.jpg" />
+				</div>
 				<div class="project-section-content">
 					<p>Client: <a href="https://arrival.com/" target="_blank">ARRIVAL</a></p>
 					<p>Director: <a href="https://vimeo.com/xeniazubova" target="_blank">Xenia Zubova</a></p>
@@ -116,11 +117,8 @@
 					<p>Director of Photography: Igor Pogodin</p>
 					<p>Camera Assistant: Gleb Simonaiz</p>
 					<p>Sound Recordist: Alexey Kulkov</p>
-					<p>Editor: Jonny Magowan</p>
+					<p>Editor: <a href="https://www.instagram.com/jonny_mags/" target="_blank">Jonny Magowan</a></p>
 					<p>Top image provided courtesy of ARRIVAL.</p>
-				</div>
-				<div class="project-section-content">
-					<img class="project-image" src="/images/work/arrival/arrival-14.jpg" />
 				</div>
 			</div>
 		</div>
