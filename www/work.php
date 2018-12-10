@@ -24,9 +24,9 @@
 			'title' => 'Ebonie G'
 		),
 		array(
-			'link' => '/projects/trumpsucks',
-			'image' => './images/work/square/trump-sucks-1.1.jpg',
-			'title' => 'Smith & Sinclair'
+			'link' => '/projects/arrival',
+			'image' => './images/work/square/arrival.jpg',
+			'title' => 'Arrival'
 		),
 		array(
 			'link' => '/projects/childrensairambulance',
@@ -34,14 +34,14 @@
 			'title' => 'Childrens Air Ambulance'
 		),
 		array(
-			'link' => '/projects/litchisback',
-			'image' => './images/work/square/mr-litch.jpg',
-			'title' => 'Mr Litch'
-		),
-		array(
 			'link' => '/projects/studio',
 			'image' => './images/work/studio/studio-5.jpg',
 			'title' => 'Kai Jones'
+		),
+		array(
+			'link' => '/projects/trumpsucks',
+			'image' => './images/work/square/trump-sucks-1.1.jpg',
+			'title' => 'Smith & Sinclair'
 		)
 	);
 ?>

@@ -22,7 +22,7 @@
 				</div>
 				<div class="project-section-content">
 					<h4>The campaign trail</h4>
-					<p>Our own Joseph Madden has been proudly photographing Small Business Saturday’s events for the past two years, from their <a href="https://smallbusinesssaturdayuk.com/#bus-tour" target="_blank">Bus Tour</a>, which delivers free business mentoring sessions for small businesses up and down the country; to the annual <a href="https://thesmallawards.uk/" target="_blank">Small Awards</a>, run by their partner organisation <a href="https://peakb.uk/" target="_blank">peak b</a>, celebrating the best and brightest small businesses. This involvement has recently brought us into the political orbit of Whitehall...</p>
+					<p>Our own Joseph Madden has been proudly working with Small Business Saturday for the past two years, from photographing their <a href="https://smallbusinesssaturdayuk.com/#bus-tour" target="_blank">Bus Tour</a>, which delivers free business mentoring sessions for small businesses up and down the country; to producing promotional videos for their social media. This involvement has recently brought us into the political orbit of Whitehall…</p>
 				</div>
 			</div>
 
@@ -99,10 +99,10 @@
 					<p>Small Business Saturday UK is a grassroots, non-commercial campaign, which highlights small business success and encourages consumers to 'shop local' and support small businesses in their communities. The day itself takes place on the first Saturday in December each year, but the campaign aims to have a lasting impact on small businesses.</p>
 				</div>
 			</div>
-<!--
+
 			<div class="project-section">
 				<div class="project-section-content">
-					<p>"Something nice"</p>
+					<p>"Joe and the CAVSOC team are a joy to work with and absolute professionals at all times. We have had many comments from event attendees on how fantastic they are. Outside events, they are super responsive and cannot do enough to help. I would recommend anyone to book them without a moment's hesitation!</p>
 					<p>Michelle Ovens MBE, Managing Director</p>
 				</div>
 				<div class="project-section-content">
@@ -118,7 +118,7 @@
 					<img class="project-image" src="/images/work/smallbizsat/smallbizsat-18.jpg" />
 				</div>
 			</div>
--->
+
 			<div class="project-section">
 				<div class="project-section-content">
 					<p>Client: <a href="https://smallbusinesssaturdayuk.com/" target="_blank">Small Business Saturday</a></p>
